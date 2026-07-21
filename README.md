@@ -88,3 +88,4 @@ Every SaaS platform has its own user export format. Every HR system has its own 
 SaaS Audit Cleanse exists because *building manual bridges between applications introduces risk* -- and audit evidence shouldn't be an Excel file on someone's desktop.
 
 **Built by [ZM Solutions](https://zmsol.github.io)** -- we fix the operational gaps that off-the-shelf software can't.
+*Built by [Z&M Solutions](https://zmsol.github.io) — operational systems for professional teams.*
